@@ -1,0 +1,11 @@
+data/
+models/
+mlruns/
+mlflow.db
+venv/
+__pycache__/
+*.pyc
+.env
+backtest_results/
+monitoring/
+*.db
