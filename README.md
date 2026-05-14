@@ -12,7 +12,7 @@
 
 **An end-to-end ML system that scores earnings call transcripts for linguistic deception signals — predicting accounting restatements before they become public.**
 
-[Live Demo](#) &nbsp;·&nbsp; [API Docs](http://localhost:8000/docs) &nbsp;·&nbsp; [Report Bug](https://github.com/YOURUSERNAME/earnings-deception-detector/issues)
+[Live Demo](https://maneet-999-earnings-deception-detector.streamlit.app) &nbsp;·&nbsp; [API Docs](https://maneet-999-earnings-deception-detector.streamlit.app) &nbsp;·&nbsp; [Report Bug](https://github.com/maneet-999/earnings-deception-detector/issues)
 
 ![Dashboard Screenshot](screenshot.png)
 
