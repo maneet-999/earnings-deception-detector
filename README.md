@@ -300,13 +300,12 @@ git push origin feature/your-feature-name
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
 ## Contact
 
-**Built by:** [Your Name]
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-**GitHub:** [github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)
-**Email:** your.email@example.com
+**Built by:** Maneet Gupta
+**LinkedIn:** [linkedin.com/in/maneet-gupta999](https://www.linkedin.com/in/maneet-gupta999)
+**GitHub:** [github.com/maneet-999](https://github.com/maneet-999)
+**Email:** 2543maneet@gmail.com
 
 ---
 
