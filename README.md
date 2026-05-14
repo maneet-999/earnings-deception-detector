@@ -254,24 +254,6 @@ Calls are labeled HIGH RISK if the company had an earnings restatement or SEC in
 ### Why PR-AUC?
 With ~5% positive rate, accuracy is meaningless — a model that predicts all-negative achieves 95% accuracy. Precision-recall AUC directly measures performance on the minority class. Walk-forward cross-validation ensures no future information leaks into training.
 
----
-
-## Screenshots
-
-| Dashboard Overview | Score Drivers (SHAP) |
-|---|---|
-| ![Overview](screenshots/overview.png) | ![SHAP](screenshots/shap.png) |
-
-| Signal Matrix | Risk Leaderboard |
-|---|---|
-| ![Matrix](screenshots/matrix.png) | ![Leaderboard](screenshots/leaderboard.png) |
-
-| API Documentation |
-|---|
-| ![API](screenshots/api_docs.png) |
-
----
-
 ## Future Improvements
 
 - [ ] Extend to Indian markets — NSE/BSE earnings call transcripts via RBI and exchange filings
